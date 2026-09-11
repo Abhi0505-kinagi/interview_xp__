@@ -2,7 +2,6 @@
 # InterviewXP: A Community-Driven Interview Experience Platform
 
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Clones](https://img.shields.io/badge/GitHub_Clones-202+-blue)
 ![Stack](https://img.shields.io/badge/Stack-MERN-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://6991c4b4646d99f0b8ab966e--interviewxp.netlify.app/)
