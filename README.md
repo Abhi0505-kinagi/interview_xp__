@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Stack](https://img.shields.io/badge/Stack-MERN-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://6991c4b4646d99f0b8ab966e--interviewxp.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://interviewxp.netlify.app/)
 **Developed by:** silent commit
 
 ---
